@@ -195,4 +195,4 @@ function play(guild, song) {
 	serverQueue.textChannel.send(`🎶 Start playing: **${song.title}**`);
 }
 
-client.login("NDgwMTE2MDkzNzAxMDYyNzAx.DweF7g.CA-2C4GvvMUgqelTVHF96LwdbWg");
+client.login("NDcwMzI3NTYzNzIyNjg2NDY0.G3kGmf.2mjcEj3TMwQqF8115Fd7-IASI_yXNoeAnQwCHs");
